@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/liwei/Src/xmonad-0.9/XMonad'
+let g:netrw_dirhist_2='/Users/liwei/.vim/after/ftplugin'
+let g:netrw_dirhist_3='/home/lijie/.vim'
+let g:netrw_dirhist_4='/home/lijie/code/git/recess/recess/recess'
